@@ -1,2 +1,2 @@
 # La_Tour
-Salubrité
+Salubrité. La gestion des ordures ménagères dans les pays en voie de développement reste un combat perdu d'avance. C'est le cas dans les villes de la Côte d'Ivoire en général et de Ouellé exceptionnellement. Ville située au sud_Est du pays et peuplée d'environ 5000 habitants, disposant d'une municipalité, une sous préfecture, un nouveau préfet affecté car la ville et ses contours érigés en département l'année passée. Avec toute ces administrations, force est de constater le problème épineux de gestion des ordures ménagères dans cette petite cité.
